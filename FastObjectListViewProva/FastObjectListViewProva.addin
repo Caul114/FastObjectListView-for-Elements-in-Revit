@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>FastObjectListViewProva</Name>
+		<Assembly>FastObjectListViewProva.dll</Assembly>
+		<ClientId>E4E12AC4-B3A4-408D-93A5-94D1F1A7FA73</ClientId>
+		<FullClassName>FastObjectListViewProva.Command</FullClassName>
+		<Text>FastObjectListViewProva</Text>
+		<Description>FastObjectListViewProva</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<VendorId>BoldStd</VendorId>
+		<VendorDescription>BoldStd, http://boldstd.it/ </VendorDescription>
+	</AddIn>
+</RevitAddIns>
